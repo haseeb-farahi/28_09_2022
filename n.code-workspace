@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "C:\\Users\\pc\\Desktop\\drum"
+		},
+		{
+			"path": "C:\\Users\\pc\\Desktop\\pianoSound"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "pianoSound"
+	}
+}
